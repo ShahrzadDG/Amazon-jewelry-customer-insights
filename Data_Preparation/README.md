@@ -21,6 +21,6 @@ The preprocessing pipeline consists of two main stages:
    
    Method:
    
-      1.Review filtering (keep only jewelry reviews)
+      1. Review filtering (keep only jewelry reviews)
    
-      2.Structured parquet dataset partitioned by year/month
+      2. Structured parquet dataset partitioned by year/month
