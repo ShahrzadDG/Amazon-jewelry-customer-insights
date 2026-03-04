@@ -4,7 +4,7 @@ import pandas as pd
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-jewelry_meta_path = "/beegfs/dehghani/NLP/Amazon_review/jewelry_meta.parquet"
+jewelry_meta_path = "/.../Amazon_review/jewelry_meta.parquet"
 jewelry_meta = pd.read_parquet(jewelry_meta_path)  
 jewelry_meta = jewelry_meta.dropna(subset=["parent_asin"])
 jewelry_meta["parent_asin"] = jewelry_meta["parent_asin"].astype(str).str.strip()
@@ -12,8 +12,8 @@ jewelry_meta["parent_asin"] = jewelry_meta["parent_asin"].astype(str).str.strip(
 jewelry_meta_small = jewelry_meta[["parent_asin", "categories"]]
 # print(jewelry_meta_small["parent_asin"].head(5).tolist())
 
-review_path = "/beegfs/dehghani/NLP/Amazon_review/Clothing_Shoes_and_Jewelry.jsonl"
-out_dir = "/beegfs/dehghani/NLP/Amazon_review/"
+review_path = "/.../Amazon_review/Clothing_Shoes_and_Jewelry.jsonl"
+out_dir = "/.../Amazon_review/"
 out_parquet_dir = os.path.join(out_dir, "Jewelry_review")
 
 
