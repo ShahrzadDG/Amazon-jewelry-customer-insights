@@ -9,8 +9,8 @@ pd.set_option("display.max_colwidth", None)
 pd.set_option("display.width", 2000) 
 pd.set_option("display.max_rows", 10)
 
-meta_path = "/beegfs/dehghani/NLP/Amazon_review/meta_Clothing_Shoes_and_Jewelry.jsonl"
-out_path = "/beegfs/dehghani/NLP/Amazon_review/jewelry_meta.parquet"
+meta_path = "/.../Amazon_review/meta_Clothing_Shoes_and_Jewelry.jsonl"
+out_path = "/.../NLP/Amazon_review/jewelry_meta.parquet"
 if os.path.isdir(out_path):
     shutil.rmtree(out_path)
 def is_jewelry(categories):
