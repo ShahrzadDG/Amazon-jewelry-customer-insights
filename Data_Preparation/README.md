@@ -12,7 +12,7 @@ The preprocessing pipeline consists of two main stages:
 3. Extracting Reviews for Jewelry Products:
    Jewelry_reviews.py
    
-   Input "Clothing_Shoes_and_Jewelry.jsonl" file and "jewelry_meta.parquet" which is output of the step 1
+   Input "Clothing_Shoes_and_Jewelry.jsonl" file and "jewelry_meta.parquet" which is output of the step 1.
    Method:
-      1.Review filtering (Keep only jewelry reviews) 
+      1.Review filtering (keep only jewelry reviews) 
       2.Structured parquet dataset partitioned by year/month
