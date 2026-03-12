@@ -9,8 +9,8 @@ pd.set_option("display.max_colwidth", None)
 pd.set_option("display.width", 2000) 
 pd.set_option("display.max_rows", 10)
 
-meta_path = "/beegfs/dehghani/NLP/Amazon2023/meta_Clothing_Shoes_and_Jewelry.jsonl"
-out_path = "/beegfs/dehghani/NLP/Amazon2023/jewelry_meta.parquet"
+meta_path = "/.../meta_Clothing_Shoes_and_Jewelry.jsonl"
+out_path = "/.../jewelry_meta.parquet"
 if os.path.isdir(out_path):
     shutil.rmtree(out_path)
     
@@ -30,7 +30,6 @@ def extract_brand(row):
         brand = details.get("Brand")
         brand_name = details.get("Brand Name")
         manufacturer = details.get("Manufacturer")
-
     return brand, brand_name, manufacturer
 
 df_meta=pd.read_json(meta_path,lines=True, chunksize=1000)
@@ -41,14 +40,12 @@ for chunk in df_meta:
     jewelry_chunk = chunk.loc[mask, ["parent_asin", "title", "average_rating", "rating_number", "price", "details", "categories"]].dropna(subset=["parent_asin"])
     # jewelry_chunk = jewelry_chunk.drop_duplicates(subset=["parent_asin"])
     new_rows=[]
-    # for pasin, cats in zip(jewelry_chunk["parent_asin"].tolist(), jewelry_chunk["categories"].tolist()):
     for _, row in jewelry_chunk.iterrows():
         pasin = str(row["parent_asin"]).strip()
 
         if pasin not in jewelry_set:
             print(pasin)
             jewelry_set.add(pasin)
-            # new_rows.append((pasin, cats))
             brand, brand_name, manufacturer = extract_brand(row)
             new_rows.append({
                 "parent_asin": pasin,
