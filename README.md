@@ -1,10 +1,8 @@
-# Jewelry-Customer-Data-Analysis-using-AI
-
 **Dataset Source**
 
-The data used in this project comes from the Amazon Review Dataset (2018) provided by Julian McAuley’s group at UCSD:
+The data used in this project comes from the Amazon Review Dataset (2023) provided by McAuley Lab:
 
-https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+https://amazon-reviews-2023.github.io/
 
 From the available categories, the dataset Clothing, Shoes and Jewelry was downloaded. 
 
@@ -14,4 +12,3 @@ Since this dataset contains multiple product types, additional processing was pe
 
 
 
-https://amazon-reviews-2023.github.io/
