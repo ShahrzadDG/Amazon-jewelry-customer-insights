@@ -13,7 +13,7 @@ The preprocessing pipeline consists of two main stages:
    
       2. Extract the corresponding jewelry products and store their unique parent_asin identifiers.
   
-      3. Collect additional useful metadata such as the product title, average rating, rating number, features, description, price, store, brand, and manufacturer, and store the results in a structured dataset.
+      3. Collect additional useful metadata such as the product title, average rating, rating number, price, brand, and manufacturer, and store the results in a structured dataset.
    
 2. Extracting Reviews for Jewelry Products:
    
