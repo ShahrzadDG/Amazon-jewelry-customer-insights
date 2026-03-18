@@ -14,17 +14,27 @@
     - Tracked yearly brands rankings.
     - Observed how top brands change over time.
     - Followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity.
+      
   <img width="717" height="470" alt="image" src="https://github.com/user-attachments/assets/76f44052-b030-4f78-91d5-50af61f26656" />
 
 - Explored price behavior in detail:
 
-  analyzed full price distribution (highly skewed, long tail up to ~33k)
+    - Analyzed full price distribution (highly skewed, long tail up to ~33k)
+  
+      <img width="520" height="459" alt="image" src="https://github.com/user-attachments/assets/acde308b-f334-46d9-9ed3-86c6324de3d9" />
 
-  segmented products into cheap / mid / luxury
+      <img width="567" height="479" alt="image" src="https://github.com/user-attachments/assets/295ab174-d4e7-424c-a5f1-304fabbc1b02" />
 
-  compared how ratings differ across these segments over time
+    - Segmented products into cheap / mid / luxury.
 
-Investigated relationship between price and satisfaction:
+      <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
+
+    - Compared how ratings differ across these segments over time.
+
+    <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
+
+
+- Investigated relationship between price and satisfaction:
 
   compared average ratings per price segment
 
