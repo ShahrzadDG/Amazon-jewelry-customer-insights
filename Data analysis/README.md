@@ -60,12 +60,18 @@
     - Generated word distributions and word clouds.
   
       Ex:
+      
     <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/851e1f14-524d-49f0-9c42-74bebf0ae30d" />
-
 
     - Tracked word trends over time and across brands.
 
-      <img width="636" height="476" alt="image" src="https://github.com/user-attachments/assets/edb01ff6-34fe-4a70-9730-bbc7f9a65e98" />
+    <img width="636" height="476" alt="image" src="https://github.com/user-attachments/assets/edb01ff6-34fe-4a70-9730-bbc7f9a65e98" />
+
+- Analyzed how certain keywords/phrases are distributed across brands or segments.
+
+    - Some terms related to affordability and pricing appear more often in lower-priced segments, while higher-priced segments are less associated with price-related language, reflecting different customer expectations across segments.
+
+    <img width="665" height="484" alt="image" src="https://github.com/user-attachments/assets/8c604a72-9f51-4f93-a697-e5888f9153a7" />
 
     - Compared how often specific complaint keywords appear across price segments.
 
@@ -74,6 +80,12 @@
     <img width="667" height="484" alt="image" src="https://github.com/user-attachments/assets/74abd345-482d-4f7b-99c7-7fc01df2b0c4" />
 
     <img width="1213" height="484" alt="image" src="https://github.com/user-attachments/assets/41c66ef7-9fb4-4416-bba5-2dbdd9343164" />
+
+- Identified which brands are most associated with “break/broken” complaints in cheap products.
+
+    - Some brands have a significantly higher share of reviews mentioning breakage (around ~65–78%), highlighting clear differences in durability issues between brands within the same price segment.
+      
+    <img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/07b68520-c14f-49f1-a247-cc17fdbbf0dd" />
 
 
 - Part of the results:
@@ -89,23 +101,22 @@
 
 - Customer complaints follow clear patterns across segments.
 
-    - “Quality problems” are more common in cheap products (~5.4%) than mid (~4.7%) and luxury (~2%)
+    - “Quality problems” are more common in cheap products (~5.4%) than mid (~4.7%) and luxury (~2%). 
 
-    - Some issues (like defects) appear more evenly across segments
+    - Some issues (like defects) appear more evenly across segments. 
 
-    - Size-related complaints exist in all segments, but are relatively noticeable in luxury as well. 
+    - Size-related complaints exist in all segments, but are relatively noticeable in luxury items as well.
 
-- This shows that:
-
-    - Cheap products struggle more with quality/durability but expectation mismatch exists in all price levels.
-
-- Brand rankings are highly dynamic over time.
+    - People mention price and affordability much more in cheaper products, while it comes up less for higher-priced items. It shows that customers focus more on cost in the low-price segment.
   
-- The yearly analysis shows that:
+    - This shows that:
+
+        - Cheap products struggle more with quality/durability but expectation mismatch exists in all price levels.
+
+
+- Brand rankings are highly dynamic over time. The yearly analysis shows that:
 
     - Top-ranked brands change frequently.
 
     - Many top brands in a given year have only a few products.
-
-    - Large brands (like Amazon Collection) evolve gradually rather than dominating constantly.
 
