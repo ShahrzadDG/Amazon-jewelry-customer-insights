@@ -19,7 +19,7 @@
 
 - Explored price behavior in detail:
 
-    - Analyzed full price distribution (highly skewed, long tail up to ~33k)
+    - Analyzed full price distribution (highly skewed, long tail up to ~33k).
   
       <img width="520" height="459" alt="image" src="https://github.com/user-attachments/assets/acde308b-f334-46d9-9ed3-86c6324de3d9" />
 
@@ -36,74 +36,76 @@
 
     <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
  
-    - Built different versions of a “value for money” score (including log and z-score normalization)
+    - Built different versions of a “value for money” score (including log and z-score normalization).
         - Results depend heavily on the definition. The results of rating / log(price) approach dominate with cheap products. Using normalized score (z-score) leads to more balanced brands. 
 
 - Analyzed market structure:
 
-  showed strong imbalance: ~108k cheap products vs only ~300 luxury ones
+    - Showed strong imbalance: ~108k cheap products vs only ~300 luxury ones.
 
-  compared popularity (review counts) across segments
+    - Compared average rating and popularity (review counts) across price segments.
+        - The plot shows the ratings across all segments are relatively stable over the years, with cheap and mid-priced products slightly improving over time, while luxury shows more fluctuation due to smaller sample size.
+ 
+        <img width="846" height="568" alt="image" src="https://github.com/user-attachments/assets/ce0356e0-2203-46bc-9191-b44bdd6c135d" />
 
-Performed review text analysis (NLP):
+        - Cheap products has the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. It suggests increasing interest in higher-end items :) 
 
-  processed ~1M+ reviews (tokenization, stopwords, normalization)
+    <img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/b83caa35-a8f1-4c1b-abe3-259975948632" />
 
-  generated word distributions and word clouds
 
-  tracked word trends over time and across brands
+- Performed review text analysis (NLP):
 
-  compared how often specific complaint keywords appear across price segments
+    - Processed reviews (tokenization, stopwords, normalization)
 
-Part of the results:
-
-The market is extremely skewed toward cheap products
-
-  Cheap items dominate both in number of products and number of reviews (~100k+ cheap vs only a few hundred luxury).
+    - Generated word distributions and word clouds.
   
-  This suggests a highly price-driven and competitive market.
+      Ex:
+    <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/851e1f14-524d-49f0-9c42-74bebf0ae30d" />
 
-Higher price does not consistently lead to higher ratings
 
-  When comparing average ratings across price segments over time, expensive products are not clearly better rated than cheaper ones.
+    - Tracked word trends over time and across brands.
+
+      <img width="636" height="476" alt="image" src="https://github.com/user-attachments/assets/edb01ff6-34fe-4a70-9730-bbc7f9a65e98" />
+
+    - Compared how often specific complaint keywords appear across price segments.
+
+    Examples:
   
-  Customer satisfaction seems to depend more on expectations and perceived value than on price itself.
+    <img width="667" height="484" alt="image" src="https://github.com/user-attachments/assets/74abd345-482d-4f7b-99c7-7fc01df2b0c4" />
 
-Customer complaints follow clear patterns across segments
+    <img width="1213" height="484" alt="image" src="https://github.com/user-attachments/assets/41c66ef7-9fb4-4416-bba5-2dbdd9343164" />
 
-  From your keyword analysis (normalized by number of reviews):
 
-  “quality problems” are more common in cheap products (~5.4%) than mid (~4.7%) and luxury (~2%)
+- Part of the results:
 
-  some issues (like defects) appear more evenly across segments
+- The market is extremely skewed toward cheap products.
 
-size-related complaints exist in all segments, but are relatively noticeable in luxury as well
-
-This shows that:
-
-  cheap products struggle more with quality/durability
-
-  but expectation mismatch exists in all price levels
-
-  Brand rankings are highly dynamic over time
+    - Cheap items dominate both in number of products and number of reviews (~100k+ cheap vs only a few hundred luxury).
   
-The yearly analysis shows that:
+- Higher price does not consistently lead to higher ratings.
 
-  top-ranked brands change frequently
+    - When comparing average ratings across price segments over time, expensive products are not clearly better rated than cheaper ones.
+        - Customer satisfaction seems to depend more on expectations and perceived value than on price itself.
 
-  many top brands in a given year have only a few products
+- Customer complaints follow clear patterns across segments.
 
-  large brands (like Amazon Collection) evolve gradually rather than dominating constantly
+    - “Quality problems” are more common in cheap products (~5.4%) than mid (~4.7%) and luxury (~2%)
 
+    - Some issues (like defects) appear more evenly across segments
 
-“Best value” strongly depends on how value is defined
+    - Size-related complaints exist in all segments, but are relatively noticeable in luxury as well. 
 
-When using raw rating/price, extremely cheap products dominate
+- This shows that:
 
-When using normalized scores (z-score), more balanced brands appear
+    - Cheap products struggle more with quality/durability but expectation mismatch exists in all price levels.
 
-This shows that:
+- Brand rankings are highly dynamic over time.
+  
+- The yearly analysis shows that:
 
-  “value for money” is not trivial
+    - Top-ranked brands change frequently.
 
-  results depend heavily on the definition, which is an important analytical insight itself
+    - Many top brands in a given year have only a few products.
+
+    - Large brands (like Amazon Collection) evolve gradually rather than dominating constantly.
+
