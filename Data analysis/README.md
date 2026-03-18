@@ -11,13 +11,12 @@
 
 
 - Analyzed how brands perform over time (2004–2023):
-        - Tracked yearly brand rankings
+        - Tracked yearly brands rankings.
+        - Observed how top brands change over time.
+        - Followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity.
+  <img width="717" height="470" alt="image" src="https://github.com/user-attachments/assets/76f44052-b030-4f78-91d5-50af61f26656" />
 
-  observed how top brands change over time
-
-  followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity
-
-Explored price behavior in detail:
+- Explored price behavior in detail:
 
   analyzed full price distribution (highly skewed, long tail up to ~33k)
 
