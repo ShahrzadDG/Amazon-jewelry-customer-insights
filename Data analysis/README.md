@@ -4,15 +4,14 @@
 
 - Compared brands performances:
 
-    - aggregated product ratings at brand level
+    - Aggregated product ratings for each brand, used a weighted score to avoid bias from products with very few reviews.
+    - Ranked ~11k+ brands based on both rating quality and review volume.
 
-  used a weighted score to avoid bias from products with very few reviews
+<img width="915" height="624" alt="image" src="https://github.com/user-attachments/assets/f2b8afcd-419c-491c-b640-80835b5ccbe4" />
 
-  ranked ~11k+ brands based on both rating quality and review volume
 
-Analyzed how brands perform over time (2004–2023):
-
-  tracked yearly brand rankings
+- Analyzed how brands perform over time (2004–2023):
+        - Tracked yearly brand rankings
 
   observed how top brands change over time
 
