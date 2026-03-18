@@ -2,7 +2,7 @@
 
 - Cleaned and structured the data to analyze products, brands, prices, ratings, and review texts.
 
-- Compared brands performances:
+- Compared brand performances:
 
     - Aggregated product ratings for each brand, used a weighted score to avoid bias from products with very few reviews.
     - Ranked ~11k+ brands based on both rating quality and review volume.
