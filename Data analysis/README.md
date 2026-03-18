@@ -19,7 +19,7 @@
 
 - Explored price behavior in detail:
 
-    - Analyzed full price distribution (highly skewed, long tail up to ~33k).
+    - Analyzed full price distribution (highly skewed, long tail up to ~33k $).
   
       <img width="520" height="459" alt="image" src="https://github.com/user-attachments/assets/acde308b-f334-46d9-9ed3-86c6324de3d9" />
 
