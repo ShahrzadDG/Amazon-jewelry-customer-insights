@@ -32,7 +32,7 @@
 
 - Investigated relationship between price and satisfaction:
 
-    - Tested whether expensive brands are actually better rated? Compared how ratings differ across these price segments. All segments have very similar rating ranges, but cheap products show a wider spread, and luxury products are more tightly clustered.
+    - Tested whether expensive brands are actually better rated. Compared how ratings differ across these price segments. All segments have very similar rating ranges, but cheap products show a wider spread, and luxury products are more tightly clustered.
 
     <img width="691" height="547" alt="image" src="https://github.com/user-attachments/assets/de61f600-c15a-4c0e-abb8-fa6a6319df19" />
  
