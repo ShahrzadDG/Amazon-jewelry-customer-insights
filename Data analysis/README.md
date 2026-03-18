@@ -1,6 +1,6 @@
-Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands) to understand the jewelry market on Amazon.
+- Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands) to understand the jewelry market on Amazon.
 
-Cleaned and structured the data to analyze products, brands, prices, ratings, and review text.
+- Cleaned and structured the data to analyze products, brands, prices, ratings, and review text.
 
 Built brand-level performance metrics:
 
