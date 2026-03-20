@@ -80,11 +80,17 @@
 
 - Analyzed how certain keywords/phrases are distributed across brands or segments.
 
-    - Some terms related to affordability and pricing appear more often in lower-priced segments, while higher-priced segments are less associated with price-related language, reflecting different customer expectations across segments.
+    - Luxury products receive more price-related language, both positive and negative. It suggests luxury buyers talk more about value for money in both directions.
 
-    <img width="665" height="484" alt="image" src="https://github.com/user-attachments/assets/8c604a72-9f51-4f93-a697-e5888f9153a7" />
+    <img width="479" height="340" alt="image" src="https://github.com/user-attachments/assets/ba18a3fa-5380-4d7d-b4e4-90dd13e0b6fb" />
 
-    - Compared how often specific complaint keywords appear across price segments.
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/b6ae3df2-8e02-4877-9251-bfa5469ad0c9" />
+
+    - Affordable/budget wording is concentrated in cheap products and almost absent in luxury.
+
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/be9f2d55-9d08-4ebe-b352-12878e9c87dc" />
+
+    - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap, slightly lower for mid, and much lower for luxury. In general, cheap products are more associated with visible damage/durability complaints than luxury. It supports the idea that lower-priced items get more complaints about physical failure.
 
     Examples:
 
@@ -92,6 +98,16 @@
 
     <img width="489" height="340" alt="image" src="https://github.com/user-attachments/assets/a0816280-d733-4926-b490-4c7cc66ea461" />
 
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/63286ba2-90f2-4640-9e28-33f850ef64ce" />
+
+    - Luxury products are more often associated with size/fit complaints.
+
+    <img width="487" height="340" alt="image" src="https://github.com/user-attachments/assets/1245da80-d4e1-4c1b-ac14-db1767c71c5c" />
+
+    <img width="487" height="340" alt="image" src="https://github.com/user-attachments/assets/720921b8-985f-4d29-a7a2-458d252b1056" />
+
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/57aba12f-a103-44ae-bd41-60a916a94fd5" />
+    
 
     - Identified which brands are most associated with specific words concerning complaints/praises for products in a specific price segment.
 
