@@ -86,7 +86,7 @@
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/b6ae3df2-8e02-4877-9251-bfa5469ad0c9" />
 
-    - Affordable/budget wording is concentrated in cheap products and almost absent in luxury.
+    - Affordable/budget wording is concentrated in cheap products and almost absent in the luxury segment.
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/be9f2d55-9d08-4ebe-b352-12878e9c87dc" />
 
