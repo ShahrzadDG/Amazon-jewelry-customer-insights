@@ -80,7 +80,7 @@
 
 - Analyzed how certain keywords/phrases are distributed across brands or segments.
 
-    - Luxury products receive more price-related language, both positive and negative - though it was ten times more prevalent in negative than in positive remarks. This suggests luxury buyers talk more about value for money in both directions.
+    - Luxury products receive more price-related language, both positive and negative - though it is ten times more prevalent in negative than it is in positive remarks. This suggests luxury buyers talk more about value for money in both directions.
 
     <img width="479" height="340" alt="image" src="https://github.com/user-attachments/assets/ba18a3fa-5380-4d7d-b4e4-90dd13e0b6fb" />
 
@@ -90,7 +90,7 @@
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/be9f2d55-9d08-4ebe-b352-12878e9c87dc" />
 
-    - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap products. It supports the idea that lower-priced items get more complaints about physical failure, visible damage/durability.
+    - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap products. This supports the idea that lower-priced items get more complaints about physical failure, visible damage/durability.
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/7279f543-92f9-4c16-bd0b-c35b15f2d99c" />
 
