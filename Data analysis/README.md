@@ -54,7 +54,7 @@
 
         - Cheap products have the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. It suggests increasing interest in higher-end items.
 
-        <img width="849" height="568" alt="image" src="https://github.com/user-attachments/assets/b83caa35-a8f1-4c1b-abe3-259975948632" />
+        <img width="694" height="568" alt="image" src="https://github.com/user-attachments/assets/00541a4b-3c86-4a67-bdc4-41f50595588e" />
 
 
 - Performed review text analysis (NLP):
