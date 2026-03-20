@@ -66,7 +66,7 @@
 
 - Performed review text analysis (NLP):
 
-    - Processed reviews (tokenization, stopwords, normalization)
+    - Processed reviews (tokenization, stopwords, etc)
 
     - Generated word distributions and word clouds.
   
@@ -76,7 +76,7 @@
 
     - Tracked word trends over time and across brands.
 
-    <img width="636" height="476" alt="image" src="https://github.com/user-attachments/assets/edb01ff6-34fe-4a70-9730-bbc7f9a65e98" />
+    <img width="691" height="491" alt="image" src="https://github.com/user-attachments/assets/fc697626-2129-4484-9a71-0e2246ca0887" />
 
 - Analyzed how certain keywords/phrases are distributed across brands or segments.
 
