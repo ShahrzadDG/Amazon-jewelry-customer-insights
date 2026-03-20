@@ -92,11 +92,13 @@
 
     - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap products. It supports the idea that lower-priced items get more complaints about physical failure, visible damage/durability.
 
-    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/a151f742-17df-482d-84d4-177394c1a515" />
-
-    <img width="489" height="340" alt="image" src="https://github.com/user-attachments/assets/a0816280-d733-4926-b490-4c7cc66ea461" />
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/7279f543-92f9-4c16-bd0b-c35b15f2d99c" />
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/63286ba2-90f2-4640-9e28-33f850ef64ce" />
+
+    - Cheap products fail physically more often, but luxury products are judged more critically in terms of perceived quality. It reflects higher customer expectations and stricter evaluation standards.
+
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/4c4cf80f-02ae-4e73-af33-498f9a19f00e" />
 
     - Luxury products are more often associated with size/fit complaints.
 
@@ -106,11 +108,16 @@
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/57aba12f-a103-44ae-bd41-60a916a94fd5" />
 
-    - Complaints about appearences
+    - Higher-priced products are more often praised for their appearance. On the other hand, lower-priced products are more often criticized for not matching expectations.
 
      <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/dad91741-d3f8-4cc3-a73d-77beaf37ac47" />
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/3f943ae1-a27d-4feb-9dbd-4095c9e8626a" />
+
+    - Comfort/usability complaints appear highest in cheap, lowest in mid, with luxury in between.
+
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/a151f742-17df-482d-84d4-177394c1a515" />
+
 
 
     - Identified which brands are most associated with specific words concerning complaints/praises for products in a specific price segment.
