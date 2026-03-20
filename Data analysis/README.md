@@ -133,7 +133,7 @@
 
 - The jewelry market on Amazon is extremely skewed toward cheap products.
 
-    - Cheap items dominate both in number of products and number of reviews (~100k+ cheap vs only a few hundred luxury).
+    - Cheap items dominate both in number of products and number of reviews (~100k+ cheap products vs only a few hundred luxury ones).
   
 - Higher price does not consistently lead to higher ratings.
 
