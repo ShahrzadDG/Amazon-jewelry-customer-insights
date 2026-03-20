@@ -87,10 +87,11 @@
     - Compared how often specific complaint keywords appear across price segments.
 
     Examples:
-  
-    <img width="667" height="484" alt="image" src="https://github.com/user-attachments/assets/74abd345-482d-4f7b-99c7-7fc01df2b0c4" />
 
-    <img width="1213" height="484" alt="image" src="https://github.com/user-attachments/assets/41c66ef7-9fb4-4416-bba5-2dbdd9343164" />
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/a151f742-17df-482d-84d4-177394c1a515" />
+
+    <img width="489" height="340" alt="image" src="https://github.com/user-attachments/assets/a0816280-d733-4926-b490-4c7cc66ea461" />
+
 
     - Identified which brands are most associated with specific words concerning complaints/praises for products in a specific price segment.
 
