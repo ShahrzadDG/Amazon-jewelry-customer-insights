@@ -7,7 +7,7 @@
     - Aggregated product ratings for each brand, used a weighted score to avoid bias from products with very few reviews.
     - Ranked ~11k+ brands based on both rating and review volume.
 
-<img width="915" height="624" alt="image" src="https://github.com/user-attachments/assets/f2b8afcd-419c-491c-b640-80835b5ccbe4" />
+<img width="760" height="470" alt="image" src="https://github.com/user-attachments/assets/6da25d80-56cc-4d1e-894c-351158cb8f36" />
 
 
 - Analyzed how brands perform over time (2004–2023):
