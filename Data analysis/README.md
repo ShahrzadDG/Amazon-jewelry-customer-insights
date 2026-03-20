@@ -70,7 +70,7 @@
 
     - Generated word distributions and word clouds.
   
-      Ex:
+      Example:
       
     <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/851e1f14-524d-49f0-9c42-74bebf0ae30d" />
 
