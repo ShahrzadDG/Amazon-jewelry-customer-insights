@@ -122,7 +122,7 @@
 
     - Identified which brands are most associated with specific words concerning complaints/praises for products in a specific price segment.
 
-    - Ex: Which brands are most associated with “break/broken” complaints in cheap products.
+    - Ex: Which brands are most associated with “break/broken” complaints for cheap products.
 
         - Some brands have a significantly higher share of reviews mentioning breakage (around ~65–78%), highlighting clear differences in durability issues between brands within the same price segment.
       
