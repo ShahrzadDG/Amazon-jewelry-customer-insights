@@ -15,7 +15,7 @@
     - Observed how top brands change over time.
     - Followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity.
       
-<img width="794" height="547" alt="image" src="https://github.com/user-attachments/assets/23d2abc8-893a-41c6-a3d4-bfe7e94a1baf" />
+<img width="717" height="547" alt="image" src="https://github.com/user-attachments/assets/c9da5a78-6df7-4e16-b02a-628553ade393" />
 
 - Explored price behavior in detail:
 
