@@ -110,9 +110,9 @@
 
     - Higher-priced products are more often praised for their appearance. On the other hand, lower-priced products are more often criticized for not matching expectations.
 
-     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/dad91741-d3f8-4cc3-a73d-77beaf37ac47" />
-
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/3f943ae1-a27d-4feb-9dbd-4095c9e8626a" />
+
+     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/dad91741-d3f8-4cc3-a73d-77beaf37ac47" />
 
     - Comfort/usability complaints appear highest in cheap, lowest in mid, with luxury in between.
 
