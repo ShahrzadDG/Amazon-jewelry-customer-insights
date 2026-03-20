@@ -11,7 +11,7 @@
 
 
 - Analyzed how brands perform over time (2004–2023):
-    - Tracked yearly brands rankings.
+    - Tracked yearly brand rankings.
     - Observed how top brands change over time.
     - Followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity.
       
