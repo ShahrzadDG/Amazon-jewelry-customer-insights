@@ -76,7 +76,7 @@
 
     - Tracked word trends over time and across brands.
 
-    <img width="574" height="414" alt="image" src="https://github.com/user-attachments/assets/2022f99e-4c7a-4734-8def-b44259a3c71d" />
+    <img width="508" height="375" alt="image" src="https://github.com/user-attachments/assets/06d8ba02-35cb-4d34-bb7e-9a82900cdc94" />
 
 - Analyzed how certain keywords/phrases are distributed across brands or segments.
 
