@@ -90,9 +90,7 @@
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/be9f2d55-9d08-4ebe-b352-12878e9c87dc" />
 
-    - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap, slightly lower for mid, and much lower for luxury. In general, cheap products are more associated with visible damage/durability complaints than luxury. It supports the idea that lower-priced items get more complaints about physical failure.
-
-    Examples:
+    - Compared how often specific complaint keywords appear across price segments. It shows the highest frequency for cheap products. It supports the idea that lower-priced items get more complaints about physical failure, visible damage/durability.
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/a151f742-17df-482d-84d4-177394c1a515" />
 
@@ -107,7 +105,13 @@
     <img width="487" height="340" alt="image" src="https://github.com/user-attachments/assets/720921b8-985f-4d29-a7a2-458d252b1056" />
 
     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/57aba12f-a103-44ae-bd41-60a916a94fd5" />
-    
+
+    - Complaints about appearences
+
+     <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/dad91741-d3f8-4cc3-a73d-77beaf37ac47" />
+
+    <img width="488" height="340" alt="image" src="https://github.com/user-attachments/assets/3f943ae1-a27d-4feb-9dbd-4095c9e8626a" />
+
 
     - Identified which brands are most associated with specific words concerning complaints/praises for products in a specific price segment.
 
