@@ -32,8 +32,7 @@
 
 - Analyzed how brand-level average prices evolve over time. For each year, the average price of products was computed at the brand level, and the resulting distribution of brand-level average prices is visualized using boxplots, segmented into price categories.
 
-<img width="779" height="547" alt="image" src="https://github.com/user-attachments/assets/f81c2906-d19e-49b4-a8ee-63ab5cfd171f" />
-
+<img width="1012" height="525" alt="image" src="https://github.com/user-attachments/assets/ddf1621b-b359-4b53-a0b4-a2290145881b" />
 
 - Investigated relationship between price and satisfaction:
 
