@@ -140,7 +140,7 @@
     - When comparing average ratings across price segments over time, expensive products are not clearly better rated than cheaper ones.
         - Customer satisfaction seems to depend more on expectations and perceived value than on price itself.
 
-- Customer complaints follow clear patterns across segments.
+- Customer complaints follow clear patterns across price segments.
 
     - “Quality problems” are far less common in luxury products. 
 
@@ -148,7 +148,7 @@
  
     - Complaint patterns reveal a gap between quality and customer expectations. Cheaper products tend to have more physical failures (e.g., broken, defects). Luxury products, on the other hand, more often show subjective customer dissatisfaction (e.g., cheaply made) or focus more on value for money and expectations. As a result, customers tend to judge luxury items more critically.
 
-    - Luxury reviews emphasize value-for-money discussions, while cheap product reviews emphasize affordability, showing that price plays a different psychological role across segments.
+    - Luxury reviews emphasize value-for-money discussions, while cheap product reviews emphasize affordability, showing systematic differences in how price is discussed across segments.
 
 - Brand rankings are highly dynamic over time. The yearly analysis shows that:
 
