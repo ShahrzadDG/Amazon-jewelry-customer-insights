@@ -21,9 +21,9 @@
 
     - Analyzed full price distribution (highly skewed, long tail up to ~33k $).
   
-    <img width="613" height="475" alt="image" src="https://github.com/user-attachments/assets/8e12db80-3829-404c-9643-3c8b24b0e428" />
+    <img width="613" height="475" alt="image" src="https://github.com/user-attachments/assets/a84d8bcb-ec84-4c27-b340-ea6ce247e80c" />
 
-    <img width="613" height="456" alt="image" src="https://github.com/user-attachments/assets/b4ecc8b2-aa65-4129-94ed-bd9e8b8923d3" />
+    <img width="613" height="475" alt="image" src="https://github.com/user-attachments/assets/7e41de6a-686a-4829-980f-79f8beb4612f" />
 
     - Segmented products into cheap / mid / luxury.
 
