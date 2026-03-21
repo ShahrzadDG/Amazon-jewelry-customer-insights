@@ -27,7 +27,7 @@
 
     - Segmented products into cheap / mid / luxury.
 
-    <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/57af04ea-173b-4c1c-ab59-0b8dadd5b811" />
+    <img width="617" height="470" alt="image" src="https://github.com/user-attachments/assets/f4013f15-d198-4afc-bfb1-57a6cdcc05d0" />
 
 
 - Analyzed how brand-level average prices evolve over time. For each year, the average price of products was computed at the brand level, and the resulting distribution of brand-level average prices was visualized using boxplots, segmented into price categories.
