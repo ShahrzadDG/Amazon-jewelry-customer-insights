@@ -18,7 +18,7 @@ This project analyzes customer reviews from jewelry subset dataset of Amazon. Th
 
 The analysis resulted in findings on customer satisfaction trends, frequently mentioned product features, and sentiment distributions. These insights can be used to better understand customer expectations and support data-driven decisions in product development and marketing.
 
-The analysing codes and results are provided in [data analysis](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data%20analysis) folder
+The analysing codes and results are provided in [data analysis](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data%20analysis) folder.
 
 
 **Data Science Part**
@@ -27,7 +27,7 @@ This part of the project focuses on applying natural language processing (NLP) t
 
 So far, a transformer-based sentiment classification model has been developed using DistilBERT. Reviews are classified into negative, neutral, and positive categories based on their ratings. An additional experiment was conducted to evaluate whether RoBERTa could improve performance on the neutral class, which is typically more difficult to classify. 
 
-The more detailed information, codes and results are in [data science](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data%20science) folder
+The more detailed information, codes and results are in [data science](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data%20science) folder.
 
 Further steps of this project includes (In progress):
 
