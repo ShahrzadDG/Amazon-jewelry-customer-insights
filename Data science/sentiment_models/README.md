@@ -20,3 +20,29 @@ label noise (rating-based labeling does not always reflect true sentiment),
 and inherent ambiguity in neutral sentiment.
 
 
+
+
+## Model Comparison Motivation
+
+Although both DistilBERT and RoBERTa were trained and evaluated, the main goal was not a general comparison between models.
+
+Instead, the objective was to investigate whether RoBERTa, as a larger and more expressive transformer model, could improve performance on the **neutral sentiment class**, which is typically more difficult to classify.
+
+The dataset is class-imbalanced and dominated by positive reviews. In addition, sentiment labels are derived from rating scores rather than manual annotation, which introduces ambiguity—especially for the neutral class.
+
+Despite its higher capacity, RoBERTa did not significantly improve performance on neutral samples. This suggests that the limitation is not primarily due to model architecture, but rather to:
+- class imbalance,
+- label noise from rating-based labeling,
+- and the inherent ambiguity of neutral sentiment.
+
+### Key Insight
+
+The main bottleneck in this task is the **data**, not the model.
+
+### Future Work
+
+Potential improvements include:
+- improving label quality (e.g., manual annotation),
+- addressing class imbalance,
+- and applying techniques such as class-weighted loss or data augmentation.
+
