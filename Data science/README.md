@@ -1,4 +1,4 @@
-This project aims to build an NLP pipeline for extracting insights from large-scale review data of jewelry market on Amazon using transformer models and LLMs.
+Aims: building an NLP pipeline for extracting insights from large-scale review data of jewelry market on Amazon using transformer models and LLMs.
 
 Planned goals:
 
