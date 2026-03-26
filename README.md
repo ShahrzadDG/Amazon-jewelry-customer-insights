@@ -8,6 +8,11 @@ From the available categories, the dataset Clothing, Shoes and Jewelry was downl
 
 Since this dataset contains multiple product types, additional processing was performed to extract only the jewelry-related products and their corresponding reviews.
 
+**Data Analysis part**
+
+
+**Data Science Part**
+
 
 
 
