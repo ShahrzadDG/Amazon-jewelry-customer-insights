@@ -1,12 +1,31 @@
-Aims: building an NLP pipeline for extracting insights from large-scale review data of jewelry market on Amazon using transformer models and LLMs.
+Aims: Building an NLP pipeline for extracting insights from large-scale review data of jewelry market on Amazon using transformer models and LLMs.
 
-Planned goals:
 
-Sentiment classification
+- Completed (so far):
 
-Topic modeling
+  - Sentiment Classification
 
-Aspect-based sentiment analysis (e.g., durability, design, size)
+    - A transformer-based sentiment classification has been developed using DistilBERT and RoBERTa.
+      
+    - Reviews are classified into negative, neutral, and positive classes.
+      
+    - Labels are derived from rating scores.
+      
+    - Stratified data splitting is used to preserve class distribution.
+      
+    - Evaluation includes:
+      
+      - accuracy
+        
+      - macro-averaged precision, recall, and F1-score
+        
+      - confusion matrix and per-class analysis
+
+In Progress
+
+Topic modeling: extracting dominant themes and topics from reviews
+
+Aspect-based sentiment analysis: understand what exactly users like or dislike(e.g., durability, design, size)
 
 LLM-based summarization
 
@@ -15,30 +34,6 @@ Early product success prediction
 Fake review detection
 
 
-- Completed (so far):
 
-  - Sentiment Classification
 
-    - A transformer-based sentiment classification system has been developed using DistilBERT and RoBERTa.
 
-Reviews are classified into negative, neutral, and positive classes
-Labels are derived from rating scores
-Stratified data splitting is used to preserve class distribution
-Evaluation includes:
-accuracy
-macro-averaged precision, recall, and F1-score
-confusion matrix and per-class analysis
-
-A focused experiment was conducted to evaluate whether RoBERTa could improve performance on the neutral class, but results indicate that the main limitation lies in the dataset (class imbalance and label ambiguity) rather than the model architecture.
-
-In Progress
-Topic Modeling
-Extracting dominant themes and topics from reviews
-Goal: identify recurring patterns (e.g., complaints, praises)
-Aspect-Based Sentiment Analysis
-Moving from overall sentiment → fine-grained sentiment
-Example aspects:
-durability
-design
-size
-Goal: understand what exactly users like or dislike
