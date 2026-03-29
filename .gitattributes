@@ -2,3 +2,4 @@ distilbert-base-uncased.zip filter=lfs diff=lfs merge=lfs -text
 Data/[[:space:]]science/sentiment_models/distilbert-base-uncased/distilbert-base-uncased.zip filter=lfs diff=lfs merge=lfs -text
 Data/[[:space:]]science/sentiment_models/distilbert-base-uncased/distilbert-base-uncased.zip filter=lfs diff=lfs merge=lfs -text
 Data[[:space:]]science/sentiment_models/roberta-base/checkpoint-683912.zip filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]science/sentiment_models/roberta-base/checkpoint-1025868.zip filter=lfs diff=lfs merge=lfs -text
