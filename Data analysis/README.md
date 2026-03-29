@@ -1,6 +1,6 @@
 Aims: Analyzing customer reviews and ratings from the jewelry subset of Amazon data to understand customer expectations and product trends.
 
-I performed exploratory data analysis (EDA) to examine brand performance, rating distributions, time-based trends, and price segments.
+I performed an exploratory data analysis (EDA) to examine brand performance, rating distributions, time-based trends, and price segments.
 
 I processed large-scale text review and rating data to identify patterns in customer sentiment, preferences, and common issues.
 
