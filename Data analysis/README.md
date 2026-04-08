@@ -137,13 +137,23 @@ I quantified the impact of different complaint types (durability, size, appearan
     <img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/07b68520-c14f-49f1-a247-cc17fdbbf0dd" />
     
 
-
 - Quantified how different types of customer complaints affect product ratings.
   
-    - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color-related issues.
+    - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color related issues.
       
-    - Created binary indicators for each complaint type at the review level and aggregated them to product-level complaint rates (e.g., share of reviews mentioning durability issues per product).
+    - Marked whether each review mentions one of these specific issues and then calculated, for each product, how often that issue appears across its reviews.
+      
+    - Filtered products with very few reviews to reduce noise and improve reliability of the analysis.
+      
+    - Built a multiple linear regression model to quantify the relationship between complaint types and product ratings.
+      
+    - Extended the analysis by comparing the relative impact of different complaint types to determine which issues most strongly drive customer dissatisfaction.
+ 
+    - Performed segmented analysis across price categories (cheap / mid / luxury) to evaluate how the importance of complaint types varies across different price segments.
+ 
+    - Visualized the impact of each complaint type using regression coefficients and comparative plots to highlight differences in effect size.
 
+    <img width="857" height="596" alt="image" src="https://github.com/user-attachments/assets/740e281e-c281-44e3-94a6-f57c88ef1d57" />
 
   
 
