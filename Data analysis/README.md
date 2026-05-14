@@ -153,7 +153,7 @@ I quantified the impact of different complaint types (durability, size, appearan
  
     - Visualized the impact of each complaint type using regression coefficients.
 
-    <img width="857" height="596" alt="image" src="https://github.com/user-attachments/assets/740e281e-c281-44e3-94a6-f57c88ef1d57" />
+    <img width="844" height="596" alt="reg" src="https://github.com/user-attachments/assets/ca8409c5-4262-4b85-9a64-35a2831822f7" />
 
     - Note: The luxury segment does not show statistically reliable results due to the very small number of available products, making it difficult to draw strong conclusions for expensive items.
 
