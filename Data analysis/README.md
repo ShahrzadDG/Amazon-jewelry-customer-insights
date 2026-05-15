@@ -50,7 +50,7 @@ I quantified the impact of different complaint types (durability, size, appearan
  
     - Built different versions of a “value for money” score (including log and z-score normalization).
         - Results depend heavily on the definition. The results of the rating / log(price) approach favor cheap products. Using normalized score (z-score) leads to more balanced recommendations.
-        - In 2023, the top value-for-money brands per segment (by z-score) were: [Brand A] (cheap), [Brand B] (mid), [Brand C] (luxury).
+        - In 2023, the top value-for-money brands per segment (by z-score) were: VILLAGE GIFT IMPORTERS brand for cheap products, CASE ELEGANCE brand for mid-price products, and La4ve Diamonds brand for luxury ones.
       
         The higher the score value, the better  
         <img width="768" height="552" alt="image" src="https://github.com/user-attachments/assets/ede62207-8cc9-4ad5-b2b7-b932ef922df1" />
@@ -83,7 +83,7 @@ I quantified the impact of different complaint types (durability, size, appearan
       
     <img width="515" height="290" alt="image" src="https://github.com/user-attachments/assets/851e1f14-524d-49f0-9c42-74bebf0ae30d" />
 
-    - Tracked word trends over time and across brands.
+    - Tracked keyword trends over time for specific brands. For example, appearance related and value-for-money terms in Amazon Collection reviews peaked around 2010, then declined and stabilized. It is consistent with a maturing brand whose early adopters wrote more expressive reviews. This function can be applied to any keyword or brand to detect shifts in customer reviews over time.
 
     <img width="508" height="375" alt="image" src="https://github.com/user-attachments/assets/06d8ba02-35cb-4d34-bb7e-9a82900cdc94" />
 
