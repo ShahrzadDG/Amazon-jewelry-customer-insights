@@ -192,7 +192,7 @@ I quantified the impact of different complaint types (durability, size, appearan
 
  - Compared to color or fit issues, appearance and durability problems have a much bigger effect on ratings.
 
-     - A 10 percente increase in durability complaints is associated with a decrease of approximately more than 0.3 stars in average product rating in both cheap and mid price products, making durability one of the most critical factor affecting customer satisfaction. Appearance affects mid price products more than cheap ones (coefficients -3.5 vs -2.7). 
+     - A 10 percente increase in durability complaints is associated with a decrease of approximately more than 0.3 stars in average product rating in both cheap and mid price products, making durability one of the most critical factor affecting customer satisfaction. Appearance affects mid price products more than cheap ones (coefficients -3.5 vs -2.7, respectively). Mid-price products' buyers care about how the piece looks as much as whether it holds together.
   
      - Other complaint types such as size/fit and color also negatively impact ratings, but with smaller effect sizes (~ 0.2 and 0.17 stars per 10% increase for size and color, respectively in case of cheap products. In case of mid-price products both of these complains are affecting similarly less than 0.1), indicating that not all issues are equally important to customers.
   
@@ -209,4 +209,3 @@ I quantified the impact of different complaint types (durability, size, appearan
 
 
 
-- Mid-price products' buyers care about how the piece looks as much as whether it holds together.
