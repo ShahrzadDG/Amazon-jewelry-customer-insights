@@ -138,17 +138,28 @@ I quantified the impact of different complaint types (durability, size, appearan
     <img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/07b68520-c14f-49f1-a247-cc17fdbbf0dd" />
     
 
-- Quantified how different types of customer complaints affect product ratings.
+- Regression Analysis
   
-    - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color related issues.
+- What drives customer ratings? How different types of customer complaints affect product ratings?
+
+    - To quantify the impact of complaint types on product ratings, I built OLS regression models using product-level aggregated data (products with ≥ 11 reviews, based on a sensitivity analysis of rating stability).
+  
+        - Processed review texts to identify specific complaint types using keyword-based pattern matching, including durability, size/fit, appearance, and color related issues.
+            - Complaint flags detected via regex pattern matching:
+                - Durability: "broke", "snapped", "fell apart", "flimsy", etc.
+                - Size/fit: "too small", "doesn't fit", "wrong size", etc.
+                - Appearance: "looks fake", "not as pictured", "looks cheap", etc.
+                - Color: "faded", "color changed", "different color", etc.
       
-    - Marked whether each review mentions one of these specific issues and then calculated, for each product, how often that issue appears across its reviews.
+        - Marked whether each review mentions one of these specific issues and then calculated, for each product, how often that issue appears across its reviews.
       
-    - Filtered products with very few reviews to reduce noise and improve reliability of the analysis.
+        - Filtered products with very few reviews to reduce noise and improve reliability of the analysis.
+     
+        - Multicollinearity check: VIF values for all four complaint flags were below 5, confirming they can be interpreted as independent predictors.
       
-    - Built a multiple linear regression model to quantify the relationship between complaint types and product ratings.
+        - Built a multiple linear regression model to quantify the relationship between complaint types and product ratings.
       
-    - Extended the analysis by comparing the relative impact of different complaint types to determine which issues most strongly drive customer dissatisfaction.
+        - Extended the analysis by comparing the relative impact of different complaint types to determine which issues most strongly drive customer dissatisfaction.
  
     - Performed segmented analysis across price categories (cheap / mid / luxury) to evaluate how the importance of complaint types varies across different price segments.
  
