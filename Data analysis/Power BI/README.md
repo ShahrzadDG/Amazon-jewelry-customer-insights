@@ -99,13 +99,7 @@ Time vs price trends:
   - Rings
   - Necklaces
 
-Relationship analysis:
-
-- Used pair plots to analyze relationships between:
-  - `price`
-  - `average_rating`
-  - `rating_number`
-  - `year`
+- Used pair plots to analyze relationships between `price`, `average_rating`, `rating_number`, and `year`.
 
 - Calculated and visualized correlation matrices using heatmaps
 
