@@ -12,10 +12,7 @@ Cleaning and preprocessing steps:
 - Cleaned text columns by converting them to string format and removing extra spaces.
 
 - Converted numeric columns to valid numeric format:
-  - `average_rating`
-  - `rating_number`
-  - `price`
-  - `rating`
+  - `average_rating`, `rating_number`, `price`, `rating`
 
 - Converted the `timestamp` column to datetime format.
 
@@ -67,21 +64,16 @@ The analysis started with a general inspection of the dataset by:
 During the EDA process, additional cleaning and category standardization were performed:
 
 - Removed non-jewelry categories such as:
-  - `Girls`
-  - `Boys`
-  - `Women`
-  - `Men`
-  - `Clothing, Shoes & Jewelry`
+  - `Girls`, `Boys`, `Women`, `Men`, `Clothing, Shoes & Jewelry`
 
 - Merged similar jewelry categories into unified labels for better analysis consistency:
-  - `Charms & Charm Bracelets` → `Charm Bracelets`
-  - `Necklaces & Pendants` → `Necklaces`
-  - `Pendants & Coins` → `Necklaces`
-  - `Piercing Jewelry` → `Body Jewelry`
-  - `Shoe, Jewelry & Watch Accessories` → `Watch Accessories`
+  - `Charms & Charm Bracelets` -->  `Charm Bracelets`
+  - `Necklaces & Pendants` --> `Necklaces`
+  - `Pendants & Coins` --> `Necklaces`
+  - `Piercing Jewelry` --> `Body Jewelry`
+  - `Shoe, Jewelry & Watch Accessories` --> `Watch Accessories`
 
-- Saved the refined dataset as:
-  `cleaned_powerBI_data.parquet`
+- Saved the refined dataset as: `cleaned_powerBI_data.parquet`
 
 The notebook includes several visual and statistical analyses to understand the dataset:
 
@@ -124,8 +116,6 @@ Category-level insights:
   - Maximum price per jewelry type
 
 - Used boxplots to compare price distributions across jewelry categories
-
-Purpose of the EDA
 
 This exploratory analysis helped:
 
