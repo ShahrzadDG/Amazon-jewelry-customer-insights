@@ -7,7 +7,7 @@ I processed large-scale text review and rating data to identify patterns in cust
 I quantified the impact of different complaint types (durability, size, appearance, and color) on product ratings using regression analysis to identify which issues most strongly drive customer dissatisfaction.
 
 To guide the analysis, the following KPIs were defined across the three notebooks: 
-**overall brand satisfaction score**, **brand quality gap**, **market structure by price segment**, **value-for-money score**, **brand stability over time**, **problem review rate**, **complaint distribution across segments**, **brand health by complaint frequency**, and **complaint severity** (quantified via regression coefficients). 
+overall brand satisfaction score, brand quality gap, market structure by price segment, value-for-money score, brand stability over time, problem review rate, complaint distribution across segments, brand health by complaint frequency, and complaint severity (quantified via regression coefficients). 
 
 - Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands spanning 2004–2023) to understand the jewelry market on Amazon.
 
@@ -206,6 +206,7 @@ To guide the analysis, the following KPIs were defined across the three notebook
        
     - Complaint patterns reveal a gap between quality and customer expectations. Cheaper products tend to have more physical failures (e.g., broken, defects). Luxury products, on the other hand, more often show subjective customer dissatisfaction (e.g., cheaply made) or focus more on value for money and expectations. As a result, customers tend to judge luxury items more critically.
 
+- There is a 15.7% problem review rate. It means roughly 1 in 6 jewelry reviews contains at least one complaint keyword.
 
 - Brand rankings are highly dynamic over time. The yearly analysis shows that:
 
@@ -231,4 +232,21 @@ To guide the analysis, the following KPIs were defined across the three notebook
   
      - Customer expectations rise and shift with price: from a focus on durability in cheap products to a combination of durability and appearance in mid-priced products.
  
-     - In luxury products, the sample size is very small, which makes the model unreliable. This is evidenced by an implausible appearance coefficient of -8.0 and a size coefficient of +0.37. 
+     - In luxury products, the sample size is very small, which makes the model unreliable. This is evidenced by an implausible appearance coefficient of -8.0 and a size coefficient of +0.37.
+ 
+
+### KPI Summary
+
+| KPI | Result |
+|---|---|
+| Overall brand satisfaction score (Bayesian) | 4.241 / 5.0 |
+| Market structure | Cheap: ~96%, Mid: ~3.7%, Luxury: ~0.3% |
+| Problem review rate | 15.7% of reviews |
+| Complaint severity — cheap segment | Durability: −0.31 stars per 10% increase |
+| Complaint severity — mid-price segment | Appearance: −0.35 stars per 10% increase |
+| Model fit (R²) | Cheap: 35.2%, Mid-price: 41.6% |
+| Value-for-money top brand (cheap, 2023) | VILLAGE GIFT IMPORTERS |
+| Value-for-money top brand (mid-price, 2023) | CASE ELEGANCE |
+
+
+      
