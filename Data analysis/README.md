@@ -138,7 +138,7 @@ I quantified the impact of different complaint types (durability, size, appearan
     <img width="846" height="606" alt="image" src="https://github.com/user-attachments/assets/07b68520-c14f-49f1-a247-cc17fdbbf0dd" />
     
 
-- Regression Analysis
+- ##### Regression Analysis
   
 - What drives customer ratings? How different types of customer complaints affect product ratings?
 
@@ -182,7 +182,7 @@ I quantified the impact of different complaint types (durability, size, appearan
     - Note: The luxury segment does not show statistically reliable results due to the very small number of available products, making it difficult to draw strong conclusions for expensive items.
 
   
-- Part of the results:
+- ## Part of the results:
 
 - The jewelry market on Amazon is extremely skewed toward cheap products.
 
