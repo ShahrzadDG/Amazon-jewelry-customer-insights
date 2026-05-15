@@ -6,7 +6,7 @@ I processed large-scale text review and rating data to identify patterns in cust
 
 I quantified the impact of different complaint types (durability, size, appearance, and color) on product ratings using regression analysis to identify which issues most strongly drive customer dissatisfaction.
 
-- Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands) to understand the jewelry market on Amazon.
+- Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands spanning 2004–2023) to understand the jewelry market on Amazon.
 
 - Cleaned and structured the data to analyze products, brands, prices, ratings, and review texts.
 
@@ -20,7 +20,7 @@ I quantified the impact of different complaint types (durability, size, appearan
 
 - Analyzed how brands perform over time (2004–2023):
     - Tracked yearly brand rankings.
-    - Observed how top brands change over time.
+    - Tracked how brand rankings shifted year over year from 2004 to 2023. It reveals that dominance is not stable. Several top ranked brands in 2015 had fallen out of the top 20 by 2023.
     - Followed the evolution of large brands (e.g. Amazon Collection) in terms of rating and popularity.
       
 <img width="756" height="393" alt="image" src="https://github.com/user-attachments/assets/2e9d7c39-1301-406b-a930-bfdf8b96f575" />
@@ -50,6 +50,7 @@ I quantified the impact of different complaint types (durability, size, appearan
  
     - Built different versions of a “value for money” score (including log and z-score normalization).
         - Results depend heavily on the definition. The results of the rating / log(price) approach favor cheap products. Using normalized score (z-score) leads to more balanced recommendations.
+        - In 2023, the top value-for-money brands per segment (by z-score) were: [Brand A] (cheap), [Brand B] (mid), [Brand C] (luxury).
       
         The higher the score value, the better  
         <img width="768" height="552" alt="image" src="https://github.com/user-attachments/assets/ede62207-8cc9-4ad5-b2b7-b932ef922df1" />
