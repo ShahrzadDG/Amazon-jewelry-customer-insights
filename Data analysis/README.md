@@ -7,7 +7,6 @@ I processed large-scale text review and rating data to identify patterns in cust
 I quantified the impact of different complaint types (durability, size, appearance, and color) on product ratings using regression analysis to identify which issues most strongly drive customer dissatisfaction.
 
 To guide the analysis, the following KPIs were defined across the three notebooks: 
-
 **overall brand satisfaction score**, **brand quality gap**, **market structure by price segment**, **value-for-money score**, **brand stability over time**, **problem review rate**, **complaint distribution across segments**, **brand health by complaint frequency**, and **complaint severity** (quantified via regression coefficients). 
 
 - Worked with a large-scale dataset (~6.8M reviews, ~800k products, ~23k brands spanning 2004–2023) to understand the jewelry market on Amazon.
