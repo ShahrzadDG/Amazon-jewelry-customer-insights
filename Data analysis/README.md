@@ -209,3 +209,4 @@ I quantified the impact of different complaint types (durability, size, appearan
 
 
 
+- Mid-price products' buyers care about how the piece looks as much as whether it holds together.
