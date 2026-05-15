@@ -172,7 +172,8 @@ I quantified the impact of different complaint types (durability, size, appearan
             | Mid | 614 | 0.416 | -3.28 | -0.71 | -3.54 | -0.87 * |
             | Luxury | 8 | — | — | — | — | — |
             
-          statistically significant (p < 0.05), * = not significant
+          Statistically significant (p < 0.05), * = not significant
+          Note: The luxury segment does not show statistically reliable results due to the very small number of available products, making it difficult to draw strong conclusions for expensive items.
  
         - Visualized the impact of each complaint type using regression coefficients.
 
@@ -221,14 +222,10 @@ I quantified the impact of different complaint types (durability, size, appearan
   
 - The importance of complaint types varies across price segments.
 
-     - In cheap products, durability issues have the strongest negative impact on ratings (coefficient ~ -3.1), dominating all other complaint types (size ~ -2.1, appearance ~ -2.7, and color ~ -1.7).
+     - In cheap products, durability issues have the strongest negative impact on ratings (−0.31 stars per 10% increase), dominating all other complaint types (size ~ -2.1, appearance ~ -2.7, and color ~ -1.7) but all four complaint types significantly damage ratings.
  
-     - In mid-priced products, both durability and appearance related complaints have a strong impact on ratings, with coefficients of approximately -3.3 for durability and -3.5 for appearance. This shows that customers in this price segment value both functionality and visual quality, with appearance having a slightly stronger effect. Other factors such as size (~ -0.7) and color (~ -0.8) have a noticeably smaller impact in this segment.
+     - In mid-priced products, both durability and appearance related complaints have a strong impact on ratings. With coefficients of approximately -3.5 for appearance and -3.3 for durability, appearance overtakes durability as the strongest predictor. This shows that customers in this price segment value both functionality and visual quality, with appearance having a slightly stronger effect. Other factors such as size (~ -0.7) and color (~ -0.8) have a noticeably smaller impact in this segment.
   
      - Customer expectations rise and shift with price: from a focus on durability in cheap products to a combination of durability and appearance in mid-priced products.
  
      - In luxury products, the sample size is very small, which makes the model unreliable. This is evidenced by an implausible appearance coefficient of -8.0 and a size coefficient of +0.37. 
-
-
-
-
