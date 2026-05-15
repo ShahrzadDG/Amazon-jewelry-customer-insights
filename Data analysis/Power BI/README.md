@@ -142,21 +142,21 @@ The dashboard provides insights into product distribution, pricing behavior, cus
 
 The dashboard includes:
 
-KPI Summary Cards
-Total number of distinct products
-Total number of distinct brands
-Number of jewelry categories
-Minimum and maximum product prices
-Interactive Filtering
-Rating range
-Year range
-Price range
-Brand selection
-Jewelry type and subtype filtering
-Trend Analysis
-Median jewelry price evolution over time
-Category Analysis
-Median price distribution across jewelry types
-Brand Performance Analysis
-Number of customer ratings per brand
-Average product ratings by jewelry category
+- KPI Summary Cards
+- Total number of distinct products
+- Total number of distinct brands
+- Number of jewelry categories
+- Minimum and maximum product prices
+- Interactive Filtering
+- Rating range
+- Year range
+- Price range
+- Brand selection
+- Jewelry type and subtype filtering
+- Trend Analysis
+- Median jewelry price evolution over time
+- Category Analysis
+- Median price distribution across jewelry types
+- Brand Performance Analysis
+- Number of customer ratings per brand
+- Average product ratings by jewelry category
