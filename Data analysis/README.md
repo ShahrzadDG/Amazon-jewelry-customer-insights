@@ -157,15 +157,26 @@ I quantified the impact of different complaint types (durability, size, appearan
      
         - Multicollinearity check: VIF values for all four complaint flags were below 5, confirming they can be interpreted as independent predictors.
       
-        - Built a multiple linear regression model to quantify the relationship between complaint types and product ratings.
-      
-        - Extended the analysis by comparing the relative impact of different complaint types to determine which issues most strongly drive customer dissatisfaction.
+        - Built a multiple linear regression model to quantify the relationship between complaint types and product ratings. Compared the relative impact of different complaint types to determine which issues most strongly drive customer dissatisfaction.
+     
+        - Full model (all segments combined):
+            - R² = 0.364 — complaint rates and log-price together explain 36.4% of rating variance. All complaint coefficients are statistically significant (p < 0.001).
  
-    - Performed segmented analysis across price categories (cheap / mid / luxury) to evaluate how the importance of complaint types varies across different price segments.
- 
-    - Visualized the impact of each complaint type using regression coefficients.
+        - Performed segmented analysis across price categories (cheap / mid / luxury) to evaluate how the importance of complaint types varies across different price segments.
+     
+        - Segmented results (cheap / mid / luxury):
 
-    <img width="844" height="596" alt="reg" src="https://github.com/user-attachments/assets/ca8409c5-4262-4b85-9a64-35a2831822f7" />
+            | Price segment | N products | R² | Durability | Size | Appearance | Color |
+            |---|---|---|---|---|---|---|
+            | Cheap | 12,902 | 0.352 | -3.13 | -2.13 | -2.74 | -1.73 |
+            | Mid | 614 | 0.416 | -3.28 | -0.71 | -3.54 | -0.87 * |
+            | Luxury | 8 | — | — | — | — | — |
+            
+          statistically significant (p < 0.05), * = not significant
+ 
+        - Visualized the impact of each complaint type using regression coefficients.
+
+        <img width="844" height="596" alt="reg" src="https://github.com/user-attachments/assets/ca8409c5-4262-4b85-9a64-35a2831822f7" />
 
     - Note: The luxury segment does not show statistically reliable results due to the very small number of available products, making it difficult to draw strong conclusions for expensive items.
 
