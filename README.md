@@ -14,9 +14,7 @@ For details on data preparation, see: [data prepration](https://github.com/Shahr
 
 **Data Analysis part**
 
-This project analyzed customer reviews from the jewelry subset dataset of Amazon. The analysis began with exploratory data analysis (EDA) to better understand the data. Brand performance, rating distributions, trends over time, and price segments were examined. The goal was to extract insights from large-scale text review and rating data and identify patterns in customer sentiment, preferences, and common issues.
-
-The findings of this analysis were customer satisfaction trends, frequently mentioned product features, and sentiment distributions. These insights can be used to better understand customer expectations and support data-driven decisions in product development and marketing.
+This project analyzed customer reviews from the jewelry subset dataset of Amazon. The analysis began with exploratory data analysis (EDA) to better understand the data. Brand performance, rating distributions, and trends across price segments over the period 2004–2023 were examined. Natural language processing (NLP) was used to extract complaint patterns and keyword trends from review text. And regression analysis was applied to quantify the impact of different complaint types on product ratings.Key performance indicators (KPIs) were defined to benchmark brand satisfaction, complaint severity, and value-for-money across different price segments. 
 
 The analysing codes and results are provided in [data analysis](https://github.com/ShahrzadDG/Amazon-jewelry-customer-insights/tree/main/Data%20analysis) folder.
 
