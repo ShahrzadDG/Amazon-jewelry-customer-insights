@@ -68,7 +68,7 @@ I quantified the impact of different complaint types (durability, size, appearan
  
         <img width="691" height="546" alt="image" src="https://github.com/user-attachments/assets/2e21e4b3-95a1-4e14-9c97-79741088b2d9" />
 
-        - Cheap products have the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years. This suggests increasing interest in higher-end items.
+        - Cheap products have the highest number of ratings, which is due to higher customer engagement and volume. Luxury products remain significantly less reviewed but show gradual growth in recent years, maybe due to Amazon's expansion into more categories, or sellers listing more luxury items. This may reflect growing availability of or interest in higher end jewelry on the platform.
 
         <img width="694" height="568" alt="image" src="https://github.com/user-attachments/assets/00541a4b-3c86-4a67-bdc4-41f50595588e" />
 
