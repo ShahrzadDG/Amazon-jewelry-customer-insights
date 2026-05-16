@@ -144,3 +144,6 @@ The dashboard includes:
 - Brand Performance Analysis
 - Number of customer ratings per brand
 - Average product ratings by jewelry category
+
+  <img width="1907" height="1095" alt="Screenshot_dashboard_PowerBI" src="https://github.com/user-attachments/assets/a38ce7d4-c5da-4d96-a3e0-bbaab383c5af" />
+
